@@ -1,7 +1,7 @@
 # stolen_vehicle_sql_project
 **SQL query questions.** 
 1. Find out how many vehicles have been stolen for each vehicle_type.
-<br>
+
 2. Find the number of vehicles by color and sort them in descending order.
 <br>
 3. In which year were the most vehicles stolen (based on model_year count)?
