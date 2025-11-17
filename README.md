@@ -1,5 +1,5 @@
 # stolen_vehicle_sql_project
-** SQL query questions. **
+**SQL query questions.** 
 <br>
 1. Find out how many vehicles have been stolen for each vehicle_type.
 <br>
