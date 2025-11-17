@@ -1,39 +1,39 @@
 # stolen_vehicle_sql_project
-** SQL query questions. **l
-<b>
+** SQL query questions. **
+<br>
 1. Find out how many vehicles have been stolen for each vehicle_type.
-<b>
+<br>
 2. Find the number of vehicles by color and sort them in descending order.
-<b>
+<br>
 3. In which year were the most vehicles stolen (based on model_year count)?
-<b>
+<br>
 4. Which make_id vehicles have been stolen the most?
-<b>
+<br>
 5. Join the locations table and find how many vehicles were stolen in each region.
-<b>
+<br>
 6. Join the make_details table and find the number of stolen vehicles for each make_name.
-<b>
+<br>
 7. Show the average population for each region.
-<b>
+<br>
 8. Find out from which country the most vehicles have been stolen.
-<b>
+<br>
 9. Show all vehicles stolen in February 2022.
-<b>
+<br>
 10. Find the average model_year by vehicle color.
-<b>
+<br>
 11.	Which make_name vehicles have been stolen the most (with join)?
-<b>
+<br>
 12. For each year (model_year), find which vehicle_type was stolen the most.
-<b>
+<br>
 13. Find the most stolen color in each region.
-<b>
+<br>
 14. Using a CTE, find the total number of vehicles stolen in 2022.
-<b>
+<br>
 15. Show the list of vehicles with model_year > 2005 and color = 'Silver'.
-<b>
+<br>
 16. For each region, find the top 3 most stolen make_names (using RANK()).
-<b>
+<br>
 17. Find the vehicle color distribution percentage (as a percentage of the total).
-<b>
+<br>
 18. Find the average model_year by location_id and show only those where the average is < 2010.
 
